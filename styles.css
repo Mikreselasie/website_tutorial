@@ -846,3 +846,7 @@ body {
     scroll-behavior: auto;
   }
 }
+
+.footer-section .logo .logo-text {
+  color: white;
+}
